@@ -26,7 +26,7 @@ provided that there are no ethical, legal, technical, economical, or practical b
 #### How Artifacts are Shared
 - [ ] archives supplementary materials on preserved digital repositories such as [zenodo.org](https://zenodo.org/), [figshare.com](http://figshare.com/), [softwareheritage.org](https://www.softwareheritage.org/), [osf.io](https://osf.io/), or institutional repositories
 - [ ] releases supplementary material under a clearly-identified open license such as [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) or [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- [ ] releases artifacts with a standardized citation format, such as [BibTeX entry](https://www.bibtex.com/), [CITATION file](https://citation-file-format.github.io/) or [DOI](https://www.doi.org/)
+- [ ] indicates a standardized citation format, such as [BibTeX entry](https://www.bibtex.com/), [CITATION file](https://citation-file-format.github.io/) or [DOI](https://www.doi.org/)
 - [ ] identifies artifact revisions so that users can retrieve specific versions, as in [versioning schemes](https://en.wikipedia.org/wiki/Software_versioning) or [changelogs](https://en.wikipedia.org/wiki/Changelog).
 
 #### What to Share
