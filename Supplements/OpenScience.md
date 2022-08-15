@@ -26,9 +26,13 @@ provided that there are no ethical, legal, technical, economical, or practical b
 #### How Artifacts are Shared
 - [ ] archives supplementary materials on preserved digital repositories such as [zenodo.org](https://zenodo.org/), [figshare.com](http://figshare.com/), [softwareheritage.org](https://www.softwareheritage.org/), [osf.io](https://osf.io/), or institutional repositories
 - [ ] releases supplementary material under a clearly-identified open license such as [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) or [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [ ] releases artifacts with a standardized citation format, such as [BibTeX entry](https://www.bibtex.com/), [CITATION file](https://citation-file-format.github.io/) or [DOI](https://www.doi.org/)
+- [ ] identifies artifact revisions so that users can retrieve specific versions, as in [versioning schemes](https://en.wikipedia.org/wiki/Software_versioning) or [changelogs](https://en.wikipedia.org/wiki/Changelog).
 
 #### What to Share
 - [ ] includes supplementary materials such as: raw, deidentified or transformed data, extended proofs, analysis scripts, software, virtual machines and containers, or qualitative codebooks.
+- [ ] includes basic instructional material for getting started, such as: running examples, test inputs, user guide, document templates
+- [ ] includes minimal documentation about the artifact, such as README files, minimum system requirements, directory structure
 
 ## General Criteria
 
@@ -65,3 +69,5 @@ Daniel Méndez, Daniel Graziotin, Stefan Wagner, and Heidi Seibold. 2019. Open s
 GitHub. 2016. Making Your Code Citable. Retrieved July 12, 2020 from [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/). (How to automatically archive a GitHub repository to Zenodo)
 
 Figshare. How to connect Figshare with your GitHub account. Retrieved July 12, 2020 from [https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account](https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account) (How to automatically archive a GitHub repository to Figshare)
+
+GitHub. 2022. Choosealicense.com - Choose an open source license. Retrieved August 22, 2022 from [https://choosealicense.com/](https://choosealicense.com/) (Non-judgmental guidance on choosing open source licenses).
