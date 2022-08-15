@@ -17,12 +17,18 @@ provided that there are no ethical, legal, technical, economical, or practical b
 ## Specific Attributes
 
 ### Desirable Attributes
+
+#### In the paper
 - [ ]  includes a section named _data availability_ (typically after conclusion)
 - [ ] EITHER: links to supplementary materials   
   OR explains why materials cannot be released (reasons for limited disclosure of data should be trusted)
-- [ ] includes supplementary materials such as: raw, deidentified or transformed data, extended proofs, analysis scripts, software, virtual machines and containers, or qualitative codebooks.
+
+#### How Artifacts are Shared
 - [ ] archives supplementary materials on preserved digital repositories such as [zenodo.org](https://zenodo.org/), [figshare.com](http://figshare.com/), [softwareheritage.org](https://www.softwareheritage.org/), [osf.io](https://osf.io/), or institutional repositories
 - [ ] releases supplementary material under a clearly-identified open license such as [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) or [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+#### What to Share
+- [ ] includes supplementary materials such as: raw, deidentified or transformed data, extended proofs, analysis scripts, software, virtual machines and containers, or qualitative codebooks.
 
 ## General Criteria
 
@@ -39,9 +45,9 @@ Researchers should not complain that a study involves artifacts which— for goo
 
 ## Notes
 
-- authors are encouraged to self-archive their pre- and post-prints in open and preserved repositories
+- authors are encouraged to self-archive their pre- and post-prints in open and preserved repositories, such as [arXiv.org](https://arxiv.org/)
 - open science is challenging for qualitative studies; reviewers should welcome qualitative studies which open their artifacts even in a limited way
-- personal or institutional websites, version control systems (e.g. GitHub), consumer cloud storage (e.g. Dropbox), and commercial paper repositories (e.g. ResearchGate; Academia.edu) do not offer properly archived and preserved data.
+- personal or institutional websites, version control systems (e.g. GitHub), consumer cloud storage (e.g. Dropbox, Google Drive), and commercial paper repositories (e.g. ResearchGate; Academia.edu) do not offer properly archived and preserved data.
 
 ## Suggested Readings
 
